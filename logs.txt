@@ -1,4 +1,0 @@
-87a5f09 (HEAD -> master, origin/master, origin/HEAD) Add starter code
-* c65540a Initial commit
-* b4a893e Update README.md
-* 5ca45d8 Initial commit
