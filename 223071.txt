@@ -20,6 +20,9 @@ git commit -m "Add starter code" (го става во staged)
 8.
 git push origin master (синхронизација на датотеките)
 
+13.git fetch origin
+14.git checkout issue-1-remove-task-by-name
+
 25.notepad logs.txt
 git add .\logs.txt (во Power Shell)
 git commit -m "Final commit"
