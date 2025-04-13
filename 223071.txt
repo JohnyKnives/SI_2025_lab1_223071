@@ -1,5 +1,5 @@
 4.
-mkdir SI_2024_lab1_223260
+mkdir SI_2025_lab1_223071
 cd C:\Users\User\Desktop\6 semestar\SI_2025_lab1_223071
 git init
 5.
@@ -9,14 +9,14 @@ git remote -v (за преглед дали е поврзан local repo со gi
 notepad README.md 
 git add README.md (на stage)
 git status 
-git commit -m "Initial commit"
+git commit -m "Initial commit" (го става во staged)
 git push origin master
 git log (проверка на сите commits)
 7.
 после преземањето на датотеката
-git add SI2025Lab1Main.јава
-git status (влегуваат во stage, од untracked files)
-git commit -m "Add starter code"
+git add SI2025Lab1Main.јава (ја додава јава датотеката)
+git status (влегуваат во stage, од untracked files) 
+git commit -m "Add starter code" (го става во staged)
 8.
 git push origin master (синхронизација на датотеките)
 
