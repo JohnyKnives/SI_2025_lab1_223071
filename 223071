@@ -1,0 +1,26 @@
+4.
+mkdir SI_2024_lab1_223260
+cd C:\Users\User\Desktop\6 semestar\SI_2025_lab1_223071
+git init
+5.
+git remote add origin https://github.com/JohnyKnives/SI_2025_lab1_223071.git
+git remote -v (за преглед дали е поврзан local repo со git repo)
+6.
+notepad README.md 
+git add README.md (на stage)
+git status 
+git commit -m "Initial commit"
+git push origin master
+git log (проверка на сите commits)
+7.
+после преземањето на трите датотеки
+git add SILab1Main.java SILab1_1.java SILab1_2.java (на stage)
+git status (влегуваат во stage, од untracked files)
+git commit -m "Add starter code"
+8.
+git push origin master (синхронизација на датотеките)
+
+25.notepad logs.txt
+git add .\logs.txt
+git commit -m "Final commit"
+26.git push origin master
