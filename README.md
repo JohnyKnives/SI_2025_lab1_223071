@@ -1,1 +1,1 @@
-# SI_2025_lab1_223071
+Jovan Sazdanovski 223071
